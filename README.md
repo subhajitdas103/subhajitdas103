@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @subhajitdas103
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... JAVA , HTML , JAVA SCRIPT, CSS
+👋 Hi, I’m @subhajitdas103  
+👀 I’m interested in Web Development, with expertise in CodeIgniter, Laravel, and React.js.  
+🌱 I’m currently learning ReactJS, Laravel and expanding my knowledge.  
+💻 I build robust and efficient web applications, focusing on frontend and backend development and database management.  
+📚 I’m passionate about learning new technologies and improving my skills in web development.
+
    📫 How to reach me ...https://www.linkedin.com/in/subhajit-das-1878a81a8/
 
 <!---
